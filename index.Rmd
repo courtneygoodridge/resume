@@ -15,130 +15,115 @@ Aside
 Contact {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> cgilroy@uw.edu
-- <i class="fa fa-globe"></i> [students.washington.edu/cgilroy](https://students.washington.edu/cgilroy)
-- <i class="fa fa-github"></i> [github.com/ccgilroy](https://github.com/ccgilroy)
-- <i class="fa fa-twitter"></i> [\@ccgilroy](https://twitter.com/ccgilroy)
-- <i class="fa fa-phone"></i> 731-225-0001
+- <i class="fa fa-envelope"></i> pscmgo@leeds.ac.uk
+- <i class="fa fa-globe"></i> [medicinehealth.leeds.ac.uk/psychology/](https://medicinehealth.leeds.ac.uk/psychology/pgr/4292/courtney-michael-goodridge-)
+- <i class="fa fa-github"></i> [github.com/courtneygoodridge](https://github.com/courtneygoodridge)
+- <i class="fa fa-twitter"></i> [\@cmgoodridge](https://twitter.com/cmgoodridge)
+- <i class="fa fa-phone"></i> 07900905915
 
 
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-**Programming:** R, Python, Stan
-
-**Data science:** Statistical modeling and data visualization of survey, network, spatial, and text data. Combining disparate data sources, including from web-scraping and APIs.
+**Tools:** R, Python, Github, Visual Studio Code, JASP, SPSS 
 
 
-Workshops 
---------------------------------------------------------------------------------
-
-**CSS workshops organized:**  
-
-- [SICSS-Seattle](https://compsocialscience.github.io/summer-institute/2018/seattle/) (2018)  
-- [IUSSP training workshop on digital demography](https://github.com/CSDE-UW/IUSSP-digital-demog-2017) (Cape Town, 2017)  
-- [Computational Demography Working Group](https://csde-uw.github.io/computational-demography/) (UW, 2018-present)  
-
+**Data science:** Utilising frequentist and Bayesian statistical methods to model, analyse and visualise sensorimotor data. 
 
 Main
 ================================================================================
 
-Connor Gilroy {#title}
+Courtney Michael Goodridge {#title}
 --------------------------------------------------------------------------------
 
-### Computational sociologist & PhD student
+### PhD student in Psychological Sciences
 
-Currently searching for summer internships in data science or social science. 
+Currently searching for post doc positions in Experimental Psychology.
 
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### University of Washington
+### University of Leeds
 
-PhD, Sociology
+PhD, Psychological Sciences
 
-Seattle, WA
+Leeds, UK
 
-expected 2022 - 2018
+expected 2021 - 2018
 
-Comprehensive Exam: "Community: Origins, Processes, and Consequences." *Passed with distinction, June 2019*
+Thesis: "Understanding Human Control of Skilled Actions." 
 
-Certificate: Special Concentration in Social Statistics. *May 2019*
 
-### University of Washington
+### University of Birmingham
 
-MA, Sociology
+MSc, Brain Imaging and Cognitive Neuroscience
 
-Seattle, WA
+Birmingham, UK
 
-2018 - 2015
+2017 - 2018
 
-Thesis: "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories."  
-*Graduate School Distinguished Thesis Award in Social Sciences, 2019*
+Thesis: "Is Alpha Oscillatory Power Responsible for Cross-Modal Inhibition During Simultaneous
+Multi-Sensory Processing?"
 
-### University of Chicago 
+Graduated in Decemeber 2018 with Distinction.
 
-BA, Biology and Geophysical Sciences
 
-Chicago, IL
+### Sheffield Hallam University 
 
-2013 - 2009
+BSc, Psychology
 
-Minor in Gender and Sexuality Studies
+Sheffield, UK
+
+2014 - 2017
+
+Thesis: 
+
+Graduated in November 2017 with 1st Class Honours.
 
 
 Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Graduate Teaching Assistant & Instructor
+### First year undegraduate seminar leader
 
-University of Washington 
+University of Leeds
 
-Seattle, WA
+Leeds, UK
 
-present - 2016
+present - 2018
 
-- Taught sections at the undergraduate and graduate levels, such as sociological theory, data science and population processes, and Bayesian statistics for the social sciences | *R, Stata, Stan*
-- Designed and taught an undergraduate course in Data and Society | *R*
+- Seminar leader for first year undergraduate research skills and statistics module. This involved teaching the principles of research design, scientific communuication, and statistical analyses (95% confidence intervals and t-tests)
 
-### Graduate Research Assistant
+### Second year undergraduate teaching assistant
 
-University of Washington 
+University of Leeds 
 
-Seattle, WA
+Leeds, UK
 
-2017 - 2015
+present - 2018
 
-- Awarded two years of competitive research fellowships 
-- Built agent-based model of public opinion change in response to LGBTQ people coming out (with Katherine Stovel) | *NetLogo, R (igraph)*
-- Analyzed processes of sexuality disclosure using aggregate social media data (with Ridhi Kashyap) | *Python (facebookads), R (tidyverse)*
-
-### Quality Assurance
-
-Epic Systems Corporation 
-
-Verona, WI
-
-2015 - 2013
-
-- Automated testing of web services | *C# (Selenium), Python (requests)*
-- Manual testing and project management for EHR software | *Excel*
+- Teaching assistant for second year computer lab sessions. This involved assisting students with the analyses of their lab report data. Analyses included: one-way/two-way ANOVAs and multiple regressions.
 
 
+### Masters research thesis
 
-Publications {data-icon=book}
---------------------------------------------------------------------------------
+University of Birmingham
 
-### Humans in the Loop: Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data. 
+Birmingham, UK
 
-forthcoming in *Socius*
+2018 - 2017
 
-N/A
+This thesis involved the investigation of cross-modal alpha modulation during simultaneous multi-sensory presentation. I successfully implemented an electroencephalography (EEG) paradigm and analysed the corresponding data.
 
-2019
+- EEG signal processing | *bandpass filtering, independent component analysis (ICA), downsampling*
+- Beamformer analysis | *anatomical MRI head model construction, spatial localisation of alpha power modulation*
 
-Anna Filippova, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. (corresponding author)
+### Masters research placement
 
-*Reproducible code on [GitHub](https://github.com/formidable-family/ffc-humans-in-the-loop)*
+University of Birmingham
+
+Birmingham, UK
+
+2018 - 2017
