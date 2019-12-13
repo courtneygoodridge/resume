@@ -16,7 +16,7 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> pscmgo@leeds.ac.uk
-- <i class="fa fa-globe"></i> [medicinehealth.leeds.ac.uk/psychology/](https://medicinehealth.leeds.ac.uk/psychology/pgr/4292/courtney-michael-goodridge-)
+- <i class="fa fa-globe"></i> [medicinehealth.leeds.ac.uk/](https://medicinehealth.leeds.ac.uk/psychology/pgr/4292/courtney-michael-goodridge-)
 - <i class="fa fa-github"></i> [github.com/courtneygoodridge](https://github.com/courtneygoodridge)
 - <i class="fa fa-twitter"></i> [\@cmgoodridge](https://twitter.com/cmgoodridge)
 - <i class="fa fa-phone"></i> 07900905915
@@ -34,7 +34,7 @@ Skills {#skills}
 Main
 ================================================================================
 
-Courtney Michael Goodridge {#title}
+Courtney Goodridge {#title}
 --------------------------------------------------------------------------------
 
 ### PhD student in Psychological Sciences
@@ -62,7 +62,7 @@ MSc, Brain Imaging and Cognitive Neuroscience
 
 Birmingham, UK
 
-2017 - 2018
+2018 - 2017
 
 Thesis: "Is Alpha Oscillatory Power Responsible for Cross-Modal Inhibition During Simultaneous
 Multi-Sensory Processing?"
@@ -76,9 +76,9 @@ BSc, Psychology
 
 Sheffield, UK
 
-2014 - 2017
+2017 - 2014
 
-Thesis: 
+Thesis: "An Eye Tracking Study Investigating the Differences in Visual Attention Given to Artificial and Natural Threats."
 
 Graduated in November 2017 with 1st Class Honours.
 
@@ -86,7 +86,7 @@ Graduated in November 2017 with 1st Class Honours.
 Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### First year undegraduate seminar leader
+### Undegraduate teaching assistant
 
 University of Leeds
 
@@ -94,18 +94,8 @@ Leeds, UK
 
 present - 2018
 
-- Seminar leader for first year undergraduate research skills and statistics module. This involved teaching the principles of research design, scientific communuication, and statistical analyses (95% confidence intervals and t-tests)
-
-### Second year undergraduate teaching assistant
-
-University of Leeds 
-
-Leeds, UK
-
-present - 2018
-
-- Teaching assistant for second year computer lab sessions. This involved assisting students with the analyses of their lab report data. Analyses included: one-way/two-way ANOVAs and multiple regressions.
-
+- Teaching assistant for second year computer lab sessions | *One-way/two-way ANOVAs and multiple regressions*
+- Seminar leader for first year undergraduate research skills and statistics module | *Research design, scientific communuication, statistical analyses* 
 
 ### Masters research thesis
 
@@ -114,8 +104,6 @@ University of Birmingham
 Birmingham, UK
 
 2018 - 2017
-
-This thesis involved the investigation of cross-modal alpha modulation during simultaneous multi-sensory presentation. I successfully implemented an electroencephalography (EEG) paradigm and analysed the corresponding data.
 
 - EEG signal processing | *bandpass filtering, independent component analysis (ICA), downsampling*
 - Beamformer analysis | *anatomical MRI head model construction, spatial localisation of alpha power modulation*
@@ -127,3 +115,5 @@ University of Birmingham
 Birmingham, UK
 
 2018 - 2017
+
+- Functional MRI data analysis using SPM | *pre-processing and first/second level analyses of subtraction and factorial designs*
