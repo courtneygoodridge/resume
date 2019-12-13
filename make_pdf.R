@@ -1,1 +1,1 @@
-pagedown::chrome_print("index.html", "gilroy_resume.pdf")
+pagedown::chrome_print("index.html", "goodridge.pdf")
