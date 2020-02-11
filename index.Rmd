@@ -22,7 +22,6 @@ Contact {#contact}
 - <i class="fa fa-phone"></i> 07900905915
 
 
-
 Skills {#skills}
 --------------------------------------------------------------------------------
 
@@ -31,16 +30,22 @@ Skills {#skills}
 
 **Quantitative:** Utilising Frequentist and Bayesian statistical methods to model, analyse and visualise quantitative data.
 
-**Qualitative:** Designing and conducting interviews alongside synthesing results utilising thematic analysis frameworks.
+**Qualitative:** Designing and conducting interviews alongside synthesising results utilising thematical analysis frameworks.
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This CV was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+
+
+References available upon request.
 
 Main
 ================================================================================
-
 Courtney Goodridge {#title}
 --------------------------------------------------------------------------------
-
 ### PhD student in Experimental Psychology
-
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -51,13 +56,13 @@ PhD, Experimental Psychology
 
 Leeds, UK
 
-expected 2021 - 2018
+Expected 2021 - 2018
 
 Thesis: "Understanding Human Control of Skilled Actions." 
 
 A collaborative project between the School of Psychology and Institute for Transport Studies at the University of Leeds.
 
-The overall aim is to generate a better understanding of driver performance whilst operating manual and autonomous vehicles, in the hope to feed-forward the research into real-world applications to inform research, design and policy within the automotive industry.
+The overall aim is to generate a better understanding of driver sensorimnotor initiation whilst operating manual and autonomous vehicles which will feed-forward into real-world applications to inform research, design and policy within the automotive industry.
 
 ### University of Birmingham
 
@@ -69,14 +74,13 @@ Birmingham, UK
 
 Graduated in Decemeber 2018 with Distinction.
 
-Modules include: Research Project (85%) Applications of Brain Imaging and Cognitive Neuroscience (77%), Fundamentals in Brain Imaging Methods (84%), Design and Analysis (70%), Proposing Research in Psychology (74%), Matlab Programming (72%).
+Modules include: Research Project (85%) Applications of Brain Imaging and Cognitive Neuroscience (77%), Fundamentals in Brain Imaging Methods (84%), Design and Analysis (70%)
 
 Thesis: "Is Alpha Oscillatory Power Responsible for Cross-Modal Inhibition During Simultaneous Multi-Sensory Processing?"
 
 This masters focused my understanding on brain imaging techniques and how they are used to understand human behaviour. I designed, implemented and analysed data utilising functional magnetic resonance imaging (fMRI) and electroencephalography (EEG).
 
-Alongside technical skill acquisition, this masters developed my ability to conduct literature reviews and think critically about how these experimental paradigms are analysed, critiqued, and how they influence and inform wider society.
-
+This masters developed my ability to conduct literature reviews and think critically about how these experimental paradigms are analysed, critiqued, and how they influence and inform wider society.
 
 ### Sheffield Hallam University 
 
@@ -90,9 +94,9 @@ Graduated in November 2017 with 1st Class Honours.
 
 Thesis: "An Eye Tracking Study Investigating the Differences in Visual Attention Given to Artificial and Natural Threats."
 
-Modules include: Psychological Research in Action (80%), Research Methods and Statistics (79%, 84%), Qualitative Research Methods (79%), Quantitative Research Methods (80%), Clinical Psychology (80%), Language and Speech (79%), Psychology Research Project (76%).
+Modules include: Psychological Research in Action (80%), Research Methods and Statistics (79%, 84%), Qualitative Research Methods (79%), Quantitative Research Methods (80%), Clinical Psychology (80%), Research Project (76%).
 
-A large focus of my undergraduate degree was focussed on research methods and design. This allowed me to develop a professional written manner and the ability to break down and synthesise complex academic literature in order to understand it, evaluate it's use in a given context, and present it in a coherent fashion. Further, I spent considerable time honing and perfecting quantitative and qualitative research skills in order to apply within academic and non-academic environments. 
+During my undergraduate training, I established a key focus on quantitative and qualitative research methods and design, alongside how to apply this within academic and non-academic environments.
 
 ### Friesland School and Sixth Form
 
@@ -112,7 +116,7 @@ GCSE's: 12 B-C GCSE’s including English and Maths
 Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Undergraduate teaching assistant
+### Undergraduate seminar leader
 
 University of Leeds
 
@@ -123,7 +127,7 @@ present - 2018
 - Teaching assistant for second year computer lab sessions | *Skills: statistical inference and modelling*
 - Seminar leader for first year undergraduate research skills and statistics module | *Skills: research design, scientific communication, statistical data analysis* 
 
-Teaching first and second year psychology students has allowed me to enhance my research skills by improving my overall knowledge base surrounding an area in order to teach this to others. This has involved me using extensive research experience from past projects alongside independent learning on subject matters that need to be disseminated.
+Teaching first and second year psychology students has allowed me to enhance my research skills by improving my overall knowledge base surrounding an area in order to teach this to others. This also demonstrates how I am able to confidently present complex ideas independently. 
 
 ### Masters research thesis
 
@@ -136,7 +140,9 @@ Birmingham, UK
 - EEG signal processing | *Skills: statistical analysis of complex data structures*
 - Manuscript writing | *Skills: scientific written communication, synthesis of complex data into applied knowledge*
 
-This research project experimentally investigated multi-sensory processing using EEG. First and foremost, this improved my ability to design simple paradigms to answer complex research questions alongside processing and analysing complex data. Aside from these technical skills, it further allowed me to present complex findings, both in written form and visually, that the lay person could interpret and understand. This is a hallmark in scientific communication and informing social policy. This manuscript was written up for target journal submission in NeuroImage and Human Brain Mapping.
+This research project experimentally investigated multi-sensory processing using EEG. This improved my ability to design simple paradigms to answer complex research questions alongside processing and analysing complex data. 
+
+It further allowed me to present complicated findings, both in written form and visually, that the lay person could interpret and understand. This manuscript was written up for target journal submission in NeuroImage and Human Brain Mapping.
 
 ### Masters research placement
 
@@ -149,7 +155,9 @@ Birmingham, UK
 - Functional MRI data analysis | *Skills: statistical analysis of complex data structures*
 - Manuscript writing | *Skills: scientific written communication, synthesis of complex data into applied knowledge*
 
-I undertook a placement investigating the functional brain differences between clinical and healthy control populations. Uncovering such differences would allow potential recommendations for behavioural and cognitive therapies that could improve the wellbeing of clinical samples. This placement work was presented at the University of Birmingham School Postgraduate Research Event and later submitted as a conference abstract to the Society of Biological Psychiatry 2019.
+This placement investigated the functional brain differences between clinical and healthy control populations using fMRI. Determing differences would allow for recommendations for behavioural and cognitive therapies that could improve the wellbeing of clinical samples. 
+
+This work was presented at the University of Birmingham School Postgraduate Research Event 2018 and later submitted as a conference abstract to the Society of Biological Psychiatry 2019.
 
 ### Research assistant
 
@@ -157,12 +165,13 @@ Sheffield Hallam University
 
 Sheffield, UK
 
+
 2017 - 2016
 
 - Manuscript writing | *Skills: scientific written communication, synthesis of complex data into applied knowledge*
 - Informing social policy | *Skills: conducting research that influences social policy*
 
-This study utilised EEG to investigate potential neural differences in attentional bias in smokers and e-cigarette users. This research was focusing on the claim that e-cigarette usage helped stop people smoking. The research investigated whether there was neural evidence for this claim by comparing cigarette/e-cigarette users attentional biases to smoking/non-smoking paraphernalia. Preliminary results indicated that e-cigarettes users had similar attentional biases to smoking stimuli as ordinary cigarette users, versus control stimuli. 
+This study utilised EEG to investigate attentional bias neural signatures in smokers and e-cigarette users. This research focused on the claim that e-cigarette usage aids smoking cessation. The research investigated whether there was neural evidence for this claim by comparing cigarette/e-cigarette users attentional biases to smoking/non-smoking paraphernalia. Preliminary results indicated that e-cigarettes users had similar attentional biases to smoking stimuli as ordinary cigarette users (versus control stimuli). 
 
 ### Qualitative research project
 
@@ -175,4 +184,4 @@ Sheffield, UK
 - Qualitative design | *Skills: designing and conducting interviews*
 - Qualitative analysis | *Skills: understanding qualitative data through thematical analysis frameworks*
 
-This qualitative research project aimed to investigate the themes surrounding UK-bound immigration from a variety of media outlets (broadsheets and tabloids). This was particularly enlightening due to the ongoing Brexit debate which was, in part, fuelled by views on immigration. This was a unique project that gave me insight into how to handle qualitative data, as well as how to conduct interviews on broad topic - it is an essential skills to focus the scope, pinpoint and answer a direct research question to inform policy and opinions.
+This qualitative research project investigated the themes surrounding UK-bound immigration across differing media platforms. This was particularly enlightening due to the ongoing Brexit debate which was, in part, fuelled by views on immigration. This unique project gave me an insight into how to handle and analyse qualitative data, as well as how to conduct interviews that answer specific research questions within a broad scope. 
