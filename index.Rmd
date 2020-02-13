@@ -6,7 +6,7 @@ output: pagedown::html_resume
 
 Aside
 ================================================================================
-![A small world network](logo.png){width=80%}
+![Distributions](logo_2.png){width=100%} 
 
 
 
@@ -34,10 +34,6 @@ Skills {#skills}
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-
-This CV was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
-
 
 References available upon request.
 
@@ -185,3 +181,26 @@ Sheffield, UK
 - Qualitative analysis | *Skills: understanding qualitative data through thematical analysis frameworks*
 
 This qualitative research project investigated the themes surrounding UK-bound immigration across differing media platforms. This was particularly enlightening due to the ongoing Brexit debate which was, in part, fuelled by views on immigration. This unique project gave me an insight into how to handle and analyse qualitative data, as well as how to conduct interviews that answer specific research questions within a broad scope. 
+
+Poster presentations {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Human Factors and Ergonomics Society Conference
+
+University of Leeds
+
+Nantes, France
+
+2019
+
+In October 2019 I presented the findings of my first PhD experiment to world leading academics and people in industry. This poster presentation was a great opportunity for me to pitch my findings to those working in applied fields. I recieved good feedback on the applicability of my findings to the automotive industry. 
+
+### University of Birmingham Postgraduate Research Event
+
+University of Birmingham
+
+Birmingham, UK
+
+2018
+
+In May 2018 I presented the findings of my research placement at the Postgraduate School Research Event. Professionals from both academic and medical backgrounds gave me the unique opporunity to present my work to an audience from a varitey of backgrounds and fields. This was vital experience for future presentations where work being presented is applicable to a variery of different people. 
