@@ -58,7 +58,7 @@ Thesis: "Understanding Human Control of Skilled Actions."
 
 A collaborative project between the School of Psychology and Institute for Transport Studies at the University of Leeds.
 
-The overall aim is to generate a better understanding of driver sensorimnotor initiation whilst operating manual and autonomous vehicles which will feed-forward into real-world applications to inform research, design and policy within the automotive industry.
+The overall aim is to generate a better understanding of driver sensorimotor initiation whilst operating manual and autonomous vehicles which will feed-forward into real-world applications to inform research, design and policy within the automotive industry.
 
 ### University of Birmingham
 
@@ -178,7 +178,7 @@ Sheffield, UK
 2016 - 2015
 
 - Qualitative design | *Skills: designing and conducting interviews*
-- Qualitative analysis | *Skills: understanding qualitative data through thematical analysis frameworks*
+- Qualitative analysis | *Skills: understanding qualitative data through thematic analysis frameworks*
 
 This qualitative research project investigated the themes surrounding UK-bound immigration across differing media platforms. This was particularly enlightening due to the ongoing Brexit debate which was, in part, fuelled by views on immigration. This unique project gave me an insight into how to handle and analyse qualitative data, as well as how to conduct interviews that answer specific research questions within a broad scope. 
 
@@ -193,7 +193,7 @@ Nantes, France
 
 2019
 
-In October 2019 I presented the findings of my first PhD experiment to world leading academics and people in industry. This poster presentation was a great opportunity for me to pitch my findings to those working in applied fields. I recieved good feedback on the applicability of my findings to the automotive industry. 
+In October 2019 I was invited to present the findings of my first PhD experiment to world leading academics and people in industry. This poster presentation was a great opportunity for me to pitch my findings to those working in applied fields. I received good feedback on the applicability of my findings to the automotive industry. 
 
 ### University of Birmingham Postgraduate Research Event
 
@@ -203,4 +203,4 @@ Birmingham, UK
 
 2018
 
-In May 2018 I presented the findings of my research placement at the Postgraduate School Research Event. Professionals from both academic and medical backgrounds gave me the unique opporunity to present my work to an audience from a varitey of backgrounds and fields. This was vital experience for future presentations where work being presented is applicable to a variery of different people. 
+In May 2018 I presented the findings of my research placement at the Postgraduate School Research Event. Professionals from both academic and medical backgrounds gave me the unique opportunity to present my work to an audience from a variety of fields. This was vital experience for future presentations where work being presented is applicable to a variety of different people.
