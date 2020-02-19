@@ -30,7 +30,7 @@ Skills {#skills}
 
 **Quantitative:** Utilising Frequentist and Bayesian statistical methods to model, analyse and visualise quantitative data.
 
-**Qualitative:** Designing and conducting interviews alongside synthesising results utilising thematical analysis frameworks.
+**Qualitative:** Designing and conducting interviews alongside synthesising results utilising thematic analysis frameworks.
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -68,7 +68,7 @@ Birmingham, UK
 
 2018 - 2017
 
-Graduated in Decemeber 2018 with Distinction.
+Graduated in December 2018 with Distinction.
 
 Modules include: Research Project (85%) Applications of Brain Imaging and Cognitive Neuroscience (77%), Fundamentals in Brain Imaging Methods (84%), Design and Analysis (70%)
 
@@ -151,7 +151,7 @@ Birmingham, UK
 - Functional MRI data analysis | *Skills: statistical analysis of complex data structures*
 - Manuscript writing | *Skills: scientific written communication, synthesis of complex data into applied knowledge*
 
-This placement investigated the functional brain differences between clinical and healthy control populations using fMRI. Determing differences would allow for recommendations for behavioural and cognitive therapies that could improve the wellbeing of clinical samples. 
+This placement investigated the functional brain differences between clinical and healthy control populations using fMRI. Determining differences would allow for recommendations for behavioural and cognitive therapies that could improve the wellbeing of clinical samples. 
 
 This work was presented at the University of Birmingham School Postgraduate Research Event 2018 and later submitted as a conference abstract to the Society of Biological Psychiatry 2019.
 
