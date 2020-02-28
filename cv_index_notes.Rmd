@@ -1,0 +1,192 @@
+---
+title: "Courtney Goodridge's CV"
+author: "Courtney Goodridge"
+output: pagedown::html_resume
+---
+
+Aside
+================================================================================
+![Distributions](logo_2.png){width=100%} 
+
+
+
+
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> pscmgo@leeds.ac.uk
+- <i class="fa fa-globe"></i> [medicinehealth.leeds.ac.uk/](https://medicinehealth.leeds.ac.uk/psychology/pgr/4292/courtney-michael-goodridge-)
+- <i class="fa fa-github"></i> [github.com/courtneygoodridge](https://github.com/courtneygoodridge)
+- <i class="fa fa-twitter"></i> [\@cmgoodridge](https://twitter.com/cmgoodridge)
+- <i class="fa fa-phone"></i> 07900905915
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+**Tools:** R, MatLab, Python, Github, Visual Studio Code, JASP, SPSS, Microsoft Office 
+
+**Quantitative statistics:** Utilising Frequentist and Bayesian statistical methods to model, analyse and visualise quantitative data.
+
+**Research interests:** Creating and implementing experimental designs to understand human behaviour using behavioural and neuroimaging techniques. 
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+References available upon request.
+
+Main
+================================================================================
+Courtney Goodridge {#title}
+--------------------------------------------------------------------------------
+### PhD student in Experimental Psychology
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Leeds
+
+PhD, Experimental Psychology
+
+Leeds, UK
+
+Expected 2021 - 2018
+
+Thesis: "Understanding Human Control of Skilled Actions." 
+
+A collaborative project between the School of Psychology and Institute for Transport Studies at the University of Leeds.
+
+The overall aim is to generate a better understanding of how drivers process visual information and initiate sensorimotor control whilst operating ground vehicles. This research will feed-forward into real-world applications to inform research, design and policy within the automotive industry.
+
+### University of Birmingham
+
+MSc, Brain Imaging and Cognitive Neuroscience
+
+Birmingham, UK
+
+2018 - 2017
+
+Graduated in December 2018 with Distinction.
+
+Modules include: Research Project (85%) Applications of Brain Imaging and Cognitive Neuroscience (77%), Fundamentals in Brain Imaging Methods (84%), Design and Analysis (70%)
+
+Thesis: "Is Alpha Oscillatory Power Responsible for Cross-Modal Inhibition During Simultaneous Multi-Sensory Processing?"
+
+This masters focused my understanding on brain imaging techniques and how they are used to understand human behaviour. I have learnt how to analyse functional magnetic resonance imaging (fMRI) data using FSL as well as understanding the application of analyses within literature and wider society.
+
+Alongside practical experience, I have also developed a theoretical grounding of fMRI analysis through understanding how matrices and linear algebra underpin the preprocessing and analytical stages of fMRI data. This coincided with learning how to use another neuroimaging analysis programme, SPM.
+
+### Sheffield Hallam University 
+
+BSc, Psychology
+
+Sheffield, UK
+
+2017 - 2014
+
+Graduated in November 2017 with 1st Class Honours.
+
+Thesis: "An Eye Tracking Study Investigating the Differences in Visual Attention Given to Artificial and Natural Threats."
+
+Modules include: Psychological Research in Action (80%), Research Methods and Statistics (79%, 84%), Neuropsychology (75%), Quantitative Research Methods (80%), Clinical Psychology (80%), Research Project (76%).
+
+During my undergraduate training, I established a key focus on quantitative research methods and design.
+
+### Friesland School and Sixth Form
+
+GCSES/ A levels
+
+Nottingham, UK
+
+2014 - 2007
+
+A Levels: Psychology (A*) Business (B) General Studies (C)
+
+AS Levels: Sociology (A) (Chemistry (D)
+
+GCSE's: 12 B-C GCSEs including English and Maths
+
+
+Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Undergraduate seminar leader
+
+University of Leeds
+
+Leeds, UK
+
+present - 2018
+
+- Teaching assistant for second year computer lab sessions | *Skills: statistical inference and modelling*
+- Seminar leader for first year undergraduate research skills and statistics module | *Skills: research design, scientific communication, statistical data analysis* 
+
+Teaching first and second year psychology students has allowed me to enhance my research skills by improving my overall knowledge base surrounding an area in order to teach this to others. This also demonstrates how I am able to confidently present complex ideas independently. 
+
+### Masters research thesis
+
+University of Birmingham
+
+Birmingham, UK
+
+2018 - 2017
+
+- EEG signal processing | *Skills: bandpass filtering, Independent Component Analysis, downsampling*
+- Manuscript writing | *Skills: scientific written communication*
+
+This research project allowed me to further improve my knowledge and application of brain imaging techniques. I learnt how to experimentally implement electroencephalography (EEG) paradigms investigating multi-sensory processing alongside analysing the corresponding data. 
+
+This involved EEG signal processing (bandpass filtering, independent component analysis (ICA) and downsampling), head model construction from anatomical MRI scans and running beamformer analysis to spatially localise alpha power modulation sources within the occipital and somatosensory cortices. This manuscript was written up for target journal submission in NeuroImage and Human Brain Mapping.
+
+### Masters research placement
+
+University of Birmingham
+
+Birmingham, UK
+
+2018 - 2017
+
+- Functional MRI data analysis | *Skills: first and second level analysis, fMRI preprocessing*
+- Manuscript writing | *Skills: scientific written communication*
+
+This placement involved analysing and presenting results from an fMRI investigation into the neural correlates of emotional face processing in youth populations suffering from mental health problems. I learnt how to implement functional MRI data analysis (pre-processing, first-level and second level analyses) using SPM for simple subtraction designs, as well as more complex factorial designs on patient and healthy control groups.
+
+This work was presented at the University of Birmingham School Postgraduate Research Event 2018 and later submitted as a conference abstract to the Society of Biological Psychiatry 2019.
+
+### Research assistant
+
+Sheffield Hallam University
+
+Sheffield, UK
+
+
+2017 - 2016
+
+- EEG setup | *Skills: Electrode positioning and clearning, EEG experimental setup*
+- Manuscript writing | *Skills: scientific written communication, synthesis of complex data into applied knowledge*
+
+This study utilised EEG to investigate attentional bias neural signatures in smokers and e-cigarette users. This research focused on the claim that e-cigarette usage aids smoking cessation. The research investigated whether there was neural evidence for this claim by comparing cigarette/e-cigarette users attentional biases to smoking/non-smoking paraphernalia. Preliminary results indicated that e-cigarettes users had similar attentional biases to smoking stimuli as ordinary cigarette users (versus control stimuli). 
+
+Poster presentations {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Human Factors and Ergonomics Society Conference
+
+University of Leeds
+
+Nantes, France
+
+2019
+
+In October 2019 I was invited to present the findings of my first PhD experiment to world leading academics and people in industry. This poster presentation was a great opportunity for me to pitch my findings to those working in applied fields. I received good feedback on the applicability of my findings to the automotive industry. 
+
+### University of Birmingham Postgraduate Research Event
+
+University of Birmingham
+
+Birmingham, UK
+
+2018
+
+In May 2018 I presented the findings of my research placement at the Postgraduate School Research Event. Professionals from both academic and medical backgrounds gave me the unique opportunity to present my work to an audience from a variety of fields. This was vital experience for future presentations where work being presented is applicable to a variety of different people.
