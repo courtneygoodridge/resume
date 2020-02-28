@@ -55,9 +55,7 @@ Expected 2021 - 2018
 
 Thesis: "Understanding Human Control of Skilled Actions." 
 
-A collaborative project between the School of Psychology and Institute for Transport Studies at the University of Leeds.
-
-The overall aim is to generate a better understanding of how drivers process visual information and initiate sensorimotor control whilst operating ground vehicles. This research will feed-forward into real-world applications to inform research, design and policy within the automotive industry.
+A collaborative project between the School of Psychology and Institute for Transport Studies at the University of Leeds. My research aims to generate a better understanding of how drivers process visual information and initiate sensorimotor control whilst operating ground vehicles. This research will feed-forward into real-world applications to inform research, design and policy within the automotive industry.
 
 ### University of Birmingham
 
@@ -91,7 +89,7 @@ Thesis: "An Eye Tracking Study Investigating the Differences in Visual Attention
 
 Modules include: Psychological Research in Action (80%), Research Methods and Statistics (79%, 84%), Neuropsychology (75%), Quantitative Research Methods (80%), Clinical Psychology (80%), Research Project (76%).
 
-During my undergraduate training, I established a key focus on quantitative research methods and design.
+During my undergraduate training, I established a key focus on quantitative research methods and design. Reports and essays have allowed me to develop a professional written manner and the ability to break down and synthesize complex academic literature in order to understand it and evaluate it's use in a given context.
 
 ### Friesland School and Sixth Form
 
@@ -120,9 +118,9 @@ Leeds, UK
 present - 2018
 
 - Teaching assistant for second year computer lab sessions | *Skills: statistical inference and modelling*
-- Seminar leader for first year undergraduate research skills and statistics module | *Skills: research design, scientific communication, statistical data analysis* 
+- Seminar leader for first year undergraduate research skills and statistics module | *Skills: research design, scientific communication, quantitative data analysis* 
 
-Teaching first and second year psychology students has allowed me to enhance my research skills by improving my overall knowledge base surrounding an area in order to teach this to others. This also demonstrates how I am able to confidently present complex ideas independently. 
+Teaching first and second year psychology students has allowed me to enhance my research skills by improving my overall knowledge base surrounding an area in order to teach this to others. This also demonstrates how I am able to confidently present complex ideas independently. Consequently, my science communication have vastly improved due to this position. 
 
 ### Masters research thesis
 
@@ -132,7 +130,8 @@ Birmingham, UK
 
 2018 - 2017
 
-- EEG signal processing | *Skills: bandpass filtering, Independent Component Analysis, downsampling*
+- EEG signal preprocessing | *Skills: bandpass filtering, Independent Component Analysis, downsampling*
+- EEG inferential analysis | *Head model construction, beamforming analysis*
 - Manuscript writing | *Skills: scientific written communication*
 
 This research project allowed me to further improve my knowledge and application of brain imaging techniques. I learnt how to experimentally implement electroencephalography (EEG) paradigms investigating multi-sensory processing alongside analysing the corresponding data. 
