@@ -136,7 +136,7 @@ Birmingham, UK
 
 This research project allowed me to further improve my knowledge and application of brain imaging techniques. I learnt how to experimentally implement electroencephalography (EEG) paradigms investigating multi-sensory processing alongside analysing the corresponding data. 
 
-This involved EEG signal processing (bandpass filtering, independent component analysis (ICA) and downsampling), head model construction from anatomical MRI scans and running beamformer analysis to spatially localise alpha power modulation sources within the occipital and somatosensory cortices. This manuscript was written up for target journal submission in NeuroImage and Human Brain Mapping.
+This involved EEG signal processing (bandpass filtering, independent component analysis (ICA) and downsampling), head model construction from anatomical MRI scans and running beamformer analysis to spatially localise alpha power modulation sources within the occipital and somatosensory cortices. This manuscript was written up for target journal submission in NeuroImage.
 
 ### Masters research placement
 
@@ -189,3 +189,8 @@ Birmingham, UK
 2018
 
 In May 2018 I presented the findings of my research placement at the Postgraduate School Research Event. Professionals from both academic and medical backgrounds gave me the unique opportunity to present my work to an audience from a variety of fields. This was vital experience for future presentations where work being presented is applicable to a variety of different people.
+
+Publications {data-icon=file-alt}
+--------------------------------------------------------------------------------
+
+Baldassi, G., Prpic, V., Goodridge, C., Agostini, T., Fantoni, C., & Soranzo, A (2016). Does the dimensionality of the perceived size play a role in the SNARC-like effect for visual illusions? (Conference abstract at the Proceedings of the Trieste Symposium on Perception and Cognition 2016).
